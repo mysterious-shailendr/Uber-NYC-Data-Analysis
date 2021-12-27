@@ -15,7 +15,7 @@ I am analysing data to find maximum trips in different time frames and this will
 3. Matplotlib for plotting 
 4. Seaborn for visualization
 
-#### For any module errors, install that module in your jupyter notebook only as follows:
+#### For any module errors, install that module in your jupyter notebook as follows:
 > !pip install module_name 
 
 #### Install these modules for running this application:
