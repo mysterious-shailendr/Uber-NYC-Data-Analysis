@@ -7,7 +7,7 @@
 The data is of Uber New York City where I am analysing different datasets and getting meaningful predictions from it.
 
 ### Potential use case/ applications:
-I am analysing data to find maximum trips in different time frames and this will help company to increase thier sales by giving more offers and discounts to customers in those time frames. This is one such use case and we can derive more such use cases...
+I am analysing data to find maximum trips in different time frames and this will help company to increase their sales by giving more offers and discounts to customers in those time frames. This is one such use case and we can derive more such use cases...
 
 ### Libraries used 
 1. Numpy for mathematical calculations
