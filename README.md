@@ -19,9 +19,11 @@ I am analysing data to find maximum trips in different time frames and this will
 > !pip install module_name 
 
 #### Install these modules for running this application:
-> !pip install plotly
-> !pip install chart-studio
+> !pip install plotly<br/>
+> !pip install chart-studio<br/>
 > !python -m pip install folium
+
+##### You can install above modules in jupyter notebook terminal also, commands are same as above just remove '!' sign and write the same command.
 
 For any doubts or difficulties feel free to raise issues, i ll help you in solving those.<br/>
 For any libraries issues or errors, visit those libraries websites(pandas, numpy, matplotlib, seaborn). They have very good documentation.
