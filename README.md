@@ -4,7 +4,7 @@
 ## Title: Uber Data Analysis
 
 ### Abstract:
-The data is of Uber New York City where I am analysing different datasets and getting meaningful predictions from it.
+The data is of Uber New York City where I am analysing different datasets of different time frames and getting meaningful insights from it.
 
 ### Potential use case/ applications:
 I am analysing data to find maximum trips in different time frames and this will help company to increase their sales by giving more offers and discounts to customers in those time frames. This is one such use case and we can derive more such use cases...
